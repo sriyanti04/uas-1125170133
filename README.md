@@ -16,6 +16,10 @@ Halaman pendaftaran akun baru dengan input data pengguna.
 ![Verifikasi Email](assets/images/verifikasi_email_preview.jpeg)
 Menampilkan proses verifikasi email setelah registrasi.
 
+### 💬 Email
+![Email](assets/images/email_preview.jpeg)
+Menampilkan tampilan pengiriman email atau notifikasi dari sistem.
+
 ### 🏠 Dashboard
 ![Dashboard](assets/images/dashboard_preview.jpeg)
 Menampilkan daftar produk dan kategori utama.
@@ -40,9 +44,7 @@ Menampilkan produk yang sudah ditambahkan ke keranjang dan tombol checkout.
 ![Profile](assets/images/profile_preview.jpeg)
 Menampilkan informasi pengguna dan pengaturan akun.
 
-### 💬 Email
-![Email](assets/images/email_preview.jpeg)
-Menampilkan tampilan pengiriman email atau notifikasi dari sistem.
+
 
 ---
 
