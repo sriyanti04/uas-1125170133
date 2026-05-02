@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955383235055",
+    "project_id": "uas-1125170133",
+    "storage_bucket": "uas-1125170133.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955383235055:android:5c4c8d5a307cd2eb0e361a",
+        "android_client_info": {
+          "package_name": "com.example.shopping_tangerang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_kzblb8Ywub5zbvi63lE6J8k-MImT8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
