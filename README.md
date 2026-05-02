@@ -29,7 +29,7 @@ Menampilkan daftar menu makanan berat seperti nasi, ayam, dan lauk lainnya.
 Menampilkan daftar menu dessert yang tersedia di katalog.
 
 ### 🍹 Kategori Minuman
-![Kategori Minuman](assets/images/kategori_menu_minuman_preview.jpeg)
+![Kategori Minuman](assets/images/kategori_menu_minuman.jpeg)
 Menampilkan daftar menu minuman dengan gambar dan harga.
 
 ### 🛒 Cart
